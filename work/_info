@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/digital electronics/sr_flipflop
+vjk_flipflop
+!s110 1765820683
+!i10b 1
+!s100 kbI7BaHZJL5mm`mASQhoJ2
+IT[@ZOik1Cz]]BN50e02l:2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1765820461
+8D:/digital electronics/jk_flipflop/jk_flipflop.v
+FD:/digital electronics/jk_flipflop/jk_flipflop.v
+L0 1
+Z2 OV;L;10.6c;65
+r1
+!s85 0
+31
+!s108 1765820683.000000
+!s107 D:/digital electronics/jk_flipflop/jk_flipflop.v|
+!s90 -reportprogress|300|-work|work|D:/digital electronics/jk_flipflop/jk_flipflop.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vsr_flipflop
+!s110 1765817570
+!i10b 1
+!s100 zc7QWYl<Yz7O=iZKzI^?f3
+Ih2gAHQ5Mg[5?b^jU_5[iK1
+R1
+R0
+w1765817257
+8D:/digital electronics/sr_flipflop/sr_flipflop.v
+FD:/digital electronics/sr_flipflop/sr_flipflop.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1765817570.000000
+!s107 D:/digital electronics/sr_flipflop/sr_flipflop.v|
+!s90 -reportprogress|300|-work|work|D:/digital electronics/sr_flipflop/sr_flipflop.v|
+!i113 1
+R3
+R4
